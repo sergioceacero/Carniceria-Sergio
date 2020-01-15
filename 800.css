@@ -1,0 +1,11 @@
+@media screen and (max-width:800px){
+
+    div.datos img{margin: 10px;}
+    div.datos {margin-left: 15%;}
+
+    p{margin: 0 auto;width: 80%;margin-top: 15px;}
+
+    div.calle{padding: 3%;}
+
+    div.datos i{margin-right: 40px;}
+}
